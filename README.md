@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Andrade-Dev
+# 👨‍💻 Andradee.Dev
 **"Desenvolvedor Fullstack"**
 
 Olá, me chamo Lucas Andrade, tenho 20 anos e sou natural de Praia Grande,SP. Atualmente, graduando em sistemas de informação na Universidade Santa Cecília.
